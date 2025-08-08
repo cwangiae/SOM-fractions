@@ -1,0 +1,26 @@
+subgroup,variables,variables1
+climate/plant,Longtitude,Longtitude
+climate/plant,Latitute,Latitute
+climate/plant,MGT,logMGT
+climate/plant,MGP,logMGP
+climate/plant,Elevation,logElevation
+climate/plant,NDVI,logNDVI
+climate/plant,Crop.types,Crop.types
+climate/plant,Crop.types1,Crop.types1
+soil properties,clay.silt,logclay.silt
+soil properties,pH,logpH
+soil properties,SWC,logSWC
+soil properties,TN,logTN
+soil properties,TP,logTP
+soil properties,CN,logCN
+soil properties,NP,logNP
+soil properties,CP,logCP
+microbial pools,MBC,logMBC
+microbial pools,MBN,logMBN
+microbial pools,FNC,logFNC
+microbial pools,BNC,logBNC
+microbial pools,FNN,logFNN
+microbial pools,BNN,logBNN
+microbial community,BS,logBS
+microbial community,FS,logFS
+microbial community,Network_PC1,Network_PC1
